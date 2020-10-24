@@ -1,0 +1,6 @@
+resources:
+    - name: MyFirstRepo
+      type: GitRepo
+      configuration:
+        gitProvider: GitHub               # Change to your integration
+        path: pcastanoigle/testjfrog                 # Change to your repo
